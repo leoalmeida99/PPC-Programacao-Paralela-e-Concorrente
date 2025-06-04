@@ -1,10 +1,26 @@
+![imagem](img/imagem.png)
+
 # Sobre
-Esse é um repositório dedicado para o componente Programação Paralela e Concorrente, do curso de Bacharel em Ciência da Computação na Universidade Católica de Santos - UNISANTOS.
+Esse é um repositório dedicado ao componente Programação Paralela e Concorrente, do curso de Bacharel em Ciência da Computação na Universidade Católica de Santos - UNISANTOS. Professor responsável pelo componente: Mestre Márcio Luiz Piva.
 
-# Como rodar os códigos?
-Os códigos presentes nesse repositório estão todos em C++, linguagem essa que permite o uso flexível do uso de threads, ferramenta essa importantíssima para o estudo desse componente.
+## Um pouco sobre os códigos
+Os códigos presentes nesse repositório estão todos em C++, linguagem essa que permite o uso de threads, ferramenta importantíssima para o estudo desse componente.
 
-## o que vamos precisar?
-- Para compilar os programas vamos precisar:
-    - C++ 11 ou superior
+# Como rodar?
+Os programas foram "rodados/executados" por um computador com o Sistema Operacional Windows. Mas para rodar na sua máquina você vai precisar:
+
+- Compilador GCC 11 ou superior para C++
+
+## Como compilar e executar:
+Compilar:
+```bash
+g++ exemplo.cpp -o exemplo
+```
+Executar:
+```bash
+.\exemplo.exe 
+```
+
+
+
 
