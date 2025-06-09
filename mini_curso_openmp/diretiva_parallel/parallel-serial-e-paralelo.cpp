@@ -4,8 +4,6 @@
 int main() {
     int thread_num = 0;
 
-    omp_set_num_threads(2);
-
     #pragma omp parallel
     {
         #if _OPENMP
